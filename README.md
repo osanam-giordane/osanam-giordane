@@ -1,4 +1,5 @@
-### Hi there 👋
+![alt text](https://scontent.fbhz6-1.fna.fbcdn.net/v/t31.0-8/28514643_1064447293697430_2523313512108902764_o.jpg?_nc_cat=100&_nc_sid=e3f864&_nc_ohc=kGKNryvy7vMAX-QoWqe&_nc_ht=scontent.fbhz6-1.fna&oh=cf2a6e8ef45da6cc8cc6c828f753882c&oe=5F2DA907)
+
 
 <!--
 **osanam-giordane/osanam-giordane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
