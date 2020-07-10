@@ -10,9 +10,12 @@ I'm a IT Professional since 2000! I love to teach and learn!
 
 📫 ***How to reach me***
 
-I love to talk to people and discuss tech! You can reach me out on any channels below!
+I love to talk to people and discuss tech! 
 
-🔗  I have a personal website at https://www.osanamgiordane.com.br where all my social networks are located! You can reach me anywhere over there!
+You can reach me out on any channels below!
+
+🔗  I have a personal website at https://www.osanamgiordane.com.br where all my social networks are located! 
+   You can reach me anywhere over there!
 
 🔗  I have a Youtube Channel - https://youtube.com/osanamgiordane
 
