@@ -1,5 +1,3 @@
-![alt text](https://scontent.fbhz6-1.fna.fbcdn.net/v/t31.0-8/28514643_1064447293697430_2523313512108902764_o.jpg?_nc_cat=100&_nc_sid=e3f864&_nc_ohc=kGKNryvy7vMAX-QoWqe&_nc_ht=scontent.fbhz6-1.fna&oh=cf2a6e8ef45da6cc8cc6c828f753882c&oe=5F2DA907)
-
 ***Hi there*** 👋
 
 My name´s Osanam Giordane and I'm a Cloud Architect focused on DevOps Tools and I´m Microsft MVP Award on Cloud and Datacenter Management category. 
