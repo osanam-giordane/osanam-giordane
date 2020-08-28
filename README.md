@@ -1,29 +1,31 @@
-***Hi there*** 👋
+***Olá!*** 👋
 
-My name´s Osanam Giordane and I'm a Cloud Architect focused on DevOps Tools and I´m Microsft MVP Award on Cloud and Datacenter Management category. 
+Meu nome é Osanam Giordane e sou um Arquiteto Cloud focado em ferramentas DevOps, sou premiado pela Microsoft como Microsft MVP na categoria Cloud and Datacenter Management e associado a ONG MTAC (More technology available for the community) focada em ser referência em inovação para o terceiro setor, criando soluções totalmente filantrópicas, para conectar pessoas em um futuro movido por tecnologia e para todos. 
 
-I´m from Brazil and I'm working mostly with Cloud Computing, Infrastructure as a Code (IaC) and Microsoft Windows Server and virtualization.
+Sou do Brasil e Estou trabalhando principalmente com Cloud Computing (Azure | AWS | GCP), Infrastructure as a Code (IaC), CI/CD, Microsoft Windows Services e virtualização.
 
-I'm a IT Professional since 2000! I love to teach and learn!
+Sou profissional de tecnologia da informação desde o ano 2000! Eu amo aprender e ensinar com as pessoas!
 
-📫 ***How to reach me***
+📫 ***Como me encontrar***
 
-I love to talk to people and discuss tech! 
+Adoro falar com as pessoas e discutir tecnologia! 
 
-You can reach me out on any channels below!
+Você pode me encontrar em qualquer um dos canais abaixo:
 
-🔗  I have a personal website at https://www.osanamgiordane.com.br where all my social networks are located! 
+🔗  Eu tenho um website pessoal em https://www.osanamgiordane.com.br onde publico conteúdos técnicos para ajudar aos profissionais de tecnologia! 
    
-   You can reach me anywhere over there!
+   Você pode me alcançar em qualquer uma destas redes sociais:
 
-🔗  I have a Youtube Channel - https://youtube.com/osanamgiordane
+🔗  Youtube Channel - https://youtube.com/osanamgiordane
 
-🔗  My Instagram - https://www.instagram.com/osanamgiordane
+🔗  Meu Instagram - https://www.instagram.com/osanamgiordane
 
-🔗  My Facebook Page - https://www.facebook.com/osanamgiordane
+🔗  Minha página do Facebook - https://www.facebook.com/osanamgiordane
 
-🔗  My Twitter - https://twitter.com/osanamgcj
+🔗  Meu Twitter - https://twitter.com/osanamgcj
 
-🔗  I also write on Medium on https://medium.com/@osanam.giordane
+🔗  Também estou escrevnedo no Medium em https://medium.com/@osanam.giordane
 
-⚠️  Here on Github I´ll share with you my scripts for help you on your day by day for automate your infrastructure to maintain your mind free for inovate.
+⚠️  Aqui no Github vou compartilhar com vocês meus scripts de infraestrutura como código (IaC) para te ajudar no seu dia a dia na automação de sua infraestrutura para que ajude você a manter sua mente livre para inovar.
+
+Muito obrigado e grande abraço!
