@@ -20,11 +20,7 @@ Você pode me encontrar em qualquer um dos canais abaixo:
 
 🔗  Meu Instagram - https://www.instagram.com/osanamgiordane
 
-🔗  Minha página do Facebook - https://www.facebook.com/osanamgiordane
-
-🔗  Meu Twitter - https://twitter.com/osanamgcj
-
-🔗  Também estou escrevnedo no Medium em https://medium.com/@osanam.giordane
+🔗  Também estou escrevendo no Medium em https://medium.com/@osanam.giordane
 
 ⚠️  Aqui no Github vou compartilhar com vocês meus scripts de infraestrutura como código (IaC) para te ajudar no seu dia a dia na automação de sua infraestrutura para que ajude você a manter sua mente livre para inovar.
 
