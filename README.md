@@ -12,7 +12,7 @@ Adoro falar com as pessoas e discutir tecnologia!
 
 <div align="center">
 
-<i>Minhas redes sociais:</i><br>
+***<i>Minhas redes sociais:</i><br>***
 
 <a href="https://mvp.microsoft.com/pt-br/PublicProfile/5001893?fullName=Osanam%20Giordane%20da%20Costa%20Junior" target="_blank">
 	<img src="https://img.shields.io/badge/-MVP%20Profile-blue?style=flat-square&logo=Microsoft&logoColor=white" alt="MVP Badge">
