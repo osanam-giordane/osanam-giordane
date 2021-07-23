@@ -10,17 +10,27 @@ Sou profissional de tecnologia da informação desde o ano **2000**! _Eu amo apr
 
 Adoro falar com as pessoas e discutir tecnologia! 
 
-Você pode me encontrar em qualquer um dos canais abaixo:
+<div align="center">
 
-🔗  Eu tenho um canal técnico no Youtube em https://youtube.com/osanamgiordane onde publico conteúdos técnicos para ajudar aos profissionais de tecnologia! 
-   
-   Você pode me alcançar em qualquer uma destas redes sociais:
+<i>Minhas redes sociais:</i><br>
 
-🔗  Website técnico - https://www.osanamgiordane.com.br
+<a href="https://mvp.microsoft.com/pt-br/PublicProfile/5001893?fullName=Osanam%20Giordane%20da%20Costa%20Junior" target="_blank">
+	<img src="https://img.shields.io/badge/-MVP%20Profile-blue?style=flat-square&logo=Microsoft&logoColor=white" alt="MVP Badge">
+</a>
 
-🔗  Meu Instagram - https://www.instagram.com/osanamgiordane
+<a href="https://linktr.ee/osanam.giordane" target="_blank">
+	<img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
+</a>
 
-🔗  Também estou escrevendo no Medium em https://medium.com/@osanam.giordane
+</div>
+<br/>
+
+<p align="justify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=osanam-giordane&show_icons=true&count_private=true&theme=algolia" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osanam-giordane&layout=compact&theme=algolia" />
+</p>
 
 ⚠️  Aqui no Github vou compartilhar com vocês meus scripts de infraestrutura como código (IaC) para te ajudar no seu dia a dia na automação de sua infraestrutura para que ajude você a manter sua mente livre para inovar.
 
