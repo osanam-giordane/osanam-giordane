@@ -18,19 +18,8 @@ Adoro falar com as pessoas e discutir tecnologia!
 	<img src="https://img.shields.io/badge/-MVP%20Profile-blue?style=flat-square&logo=Microsoft&logoColor=white" alt="MVP Badge">
 </a>
 
-<a href="https://linktr.ee/osanam.giordane" target="_blank">
-	<img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
-</a>
-
 </div>
 <br/>
-
-<p align="justify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=osanam-giordane&show_icons=true&count_private=true&theme=algolia" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osanam-giordane&layout=compact&theme=algolia" />
-</p>
 
 ⚠️  Aqui no Github vou compartilhar com vocês meus scripts de infraestrutura como código (IaC) para te ajudar no seu dia a dia na automação de sua infraestrutura para que ajude você a manter sua mente livre para inovar.
 
