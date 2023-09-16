@@ -1,18 +1,29 @@
-***Olá!*** 👋
+Olá! 👋
 
-Meu nome é Osanam Giordane e sou um **Arquiteto Cloud** focado em ferramentas DevOps, sou premiado pela Microsoft como [**Microsft MVP**](https://mvp.microsoft.com/pt-br/PublicProfile/5001893?fullName=Osanam%20Giordane%20da%20Costa%20Junior) na categoria Cloud and Datacenter Management e associado a [**ONG MTAC**](https://www.mtac.org.br/) (More technology available for the community) focada em ser referência em inovação para o terceiro setor, criando soluções totalmente filantrópicas, para conectar pessoas em um futuro movido por tecnologia e para todos. 
+Meu nome é Osanam Giordane, e sou um Engenheiro Cloud/DevOps apaixonado por ferramentas e práticas DevOps. Tenho a honra de ser reconhecido pela Microsoft como Microsoft MVP na categoria Cloud and Datacenter Management, além de ser membro das comunidades AWS Community Builder e HashiCorp Ambassador.
 
-Sou do Brasil e Estou trabalhando principalmente com _Cloud Computing (Azure | AWS | GCP), Infrastructure as Code (IaC), CI/CD, Microsoft Windows Services e virtualização_.
+Com base no Brasil, minha trajetória profissional está focada principalmente em Cloud Computing (Azure | AWS | GCP) e DevOps, abrangendo tanto as ferramentas quanto a cultura DevOps e a Agilidade.
 
-Sou profissional de tecnologia da informação desde o ano **2000**! _Eu amo aprender e ensinar as pessoas!_
+Ingressei na tecnologia da informação em 2000 e desde então, minha paixão pelo aprendizado e compartilhamento de conhecimento só cresceu. Acredito firmemente que a colaboração é a base do sucesso, e por isso, valorizo a oportunidade de trabalhar em equipe para alcançar objetivos comuns.
 
-📫 ***Como me encontrar***
+Me considero um "Solucionador de problemas criativo e adaptável", comprometido em encontrar soluções inovadoras para desafios complexos.
 
-Adoro falar com as pessoas e discutir tecnologia! 
+📫 Como me encontrar
 
-<div align="center">
+Mantenho um canal técnico no YouTube chamado @codefc, onde compartilho conteúdos técnicos para ajudar profissionais de tecnologia a se manterem atualizados e aprimorarem suas habilidades.
 
-***<i>Minhas redes sociais:</i><br>***
+Estou sempre aberto a conversas e discussões sobre tecnologia. Você pode entrar em contato comigo pelos seguintes canais:
+
+LinkedIn: Osanam Giordane
+Instagram: @osanamgiordane
+GitHub: @osanam-giordane
+
+Agradeço por visitar meu perfil! Estou ansioso para participar de discussões e colaborações tecnológicas.
+
+#CloudComputing #DevOps #ArquiteturaCloud
+
+Grande abraço!
+
 
 <a href="https://mvp.microsoft.com/pt-br/PublicProfile/5001893?fullName=Osanam%20Giordane%20da%20Costa%20Junior" target="_blank">
 	<img src="https://img.shields.io/badge/-MVP%20Profile-blue?style=flat-square&logo=Microsoft&logoColor=white" alt="MVP Badge">
